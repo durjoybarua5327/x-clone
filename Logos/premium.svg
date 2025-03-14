@@ -1,0 +1,27 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    width="50"
+    height="50"
+>
+    <!-- Wave-like Circle Background -->
+    <circle cx="12" cy="12" r="10" fill="black" stroke="white" stroke-width="2"/>
+    <path
+        fill="none"
+        stroke="white"
+        stroke-width="2"
+        d="M2 12c0-5.5 4.5-10 10-10s10 4.5 10 10"
+    />
+    <path
+        fill="none"
+        stroke="white"
+        stroke-width="2"
+        d="M2 12c0 5.5 4.5 10 10 10s10-4.5 10-10"
+    />
+    
+    <!-- Checkmark -->
+    <path
+        fill="white"
+        d="M9 11l2.5 2.5L15 9l1.5 1.5L11.5 15 7.5 11.5z"
+    />
+</svg>
